@@ -13,8 +13,8 @@ This is a simple application that allows you to chat with a PDF file. The applic
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yogeshumalkar11/chat-with-pdf.git
-cd chat-with-pdf
+git clone https://github.com/yogeshumalkar11/Chat-with-PDF.git
+cd Chat-with-PDF
 ```
 
 2. Install the required dependencies using `pip`.
